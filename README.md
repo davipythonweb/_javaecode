@@ -1,5 +1,5 @@
 # _javaecode
-crud em java.
+estudando com java.
 
 
 | Aula   | Conteúdo principal                                                               |
